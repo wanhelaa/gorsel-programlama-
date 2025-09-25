@@ -68,7 +68,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(21, 16);
             this.label2.TabIndex = 2;
-            this.label2.Text = "00";
+            this.label2.Text = "26";
             // 
             // label3
             // 
@@ -78,6 +78,10 @@
             this.label3.Size = new System.Drawing.Size(21, 16);
             this.label3.TabIndex = 3;
             this.label3.Text = "00";
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // label4
             // 

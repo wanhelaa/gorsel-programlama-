@@ -1,0 +1,10 @@
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\bin\Debug\gorsel programlama 2.exe.config
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\bin\Debug\gorsel programlama 2.exe
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\bin\Debug\gorsel programlama 2.pdb
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\obj\Debug\gorsel programlama 2.csproj.AssemblyReference.cache
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\obj\Debug\gorsel_programlama_2.Form1.resources
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\obj\Debug\gorsel_programlama_2.Properties.Resources.resources
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\obj\Debug\gorsel programlama 2.csproj.GenerateResource.cache
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\obj\Debug\gorsel programlama 2.csproj.CoreCompileInputs.cache
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\obj\Debug\gorsel programlama 2.exe
+C:\Users\ela\OneDrive\Documents\unity building game\sungur\car game\gorsel-programlama-\görsel\gorsel programlama 2\gorsel programlama 2\obj\Debug\gorsel programlama 2.pdb
